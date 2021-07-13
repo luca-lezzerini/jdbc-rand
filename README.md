@@ -1,1 +1,1 @@
-# jdc-rand
+# jdbc-rand
